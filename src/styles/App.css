@@ -1,1 +1,22 @@
 
+.main {
+  padding: 20px;
+  font-family: sans-serif;
+  background-color: white;
+  color: black;
+}
+
+.main.dark {
+  background-color: #1a1a1a;
+  color: white;
+}
+
+.buttons-container button {
+  margin-right: 10px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.list-container {
+  margin-top: 20px;
+}
